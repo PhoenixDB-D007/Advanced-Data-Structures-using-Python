@@ -93,6 +93,6 @@ def insert_data(_data):
         print()
 
 if __name__ == "__main__":
-    insert_data([10,8,15,7,9,12,17,16,18,6,4])
+    insert_data([150,28,515,67,79,112,617,816])
 else:
     pass
