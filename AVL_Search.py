@@ -18,7 +18,7 @@ def Search(root,val):
     return False
 
 def main():
-    root = insert_data([10,8,15,7,9,12,17,16,18,6,4])
+    root = insert_data([105,86,175,77,89,9120])
     t = int(input('Enter the key to be searched:\t'))
     if(Search(root,t)):
         print()
